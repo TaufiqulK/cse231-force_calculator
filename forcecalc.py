@@ -1,4 +1,4 @@
-from forcecalclass import ForceCalculator
+from forcecalcclass import ForceCalculator
 
 MENU = '''\n:~Net Force Calculator Program
           1) Add force
